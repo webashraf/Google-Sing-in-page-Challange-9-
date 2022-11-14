@@ -1,0 +1,72 @@
+.header-menu {
+	background-color: #f1f1f1;
+}
+.header-img img {
+	width: 132px;
+}
+.header-menu span a{
+
+}
+.right-form .block-input {
+	width: 445px;
+}
+/* form cascading style sheet */
+/* form cascading style sheet */
+.right-form {
+	background-color: #f1f1f1;
+}
+.birth-month {
+	width: 110px;
+	height: 41px;
+	padding-left: 21px;
+}
+.birth-day {
+	width: 82px;
+	height: 40px;
+    padding: 6px;
+    font-size: 17px;
+}
+.birth-year {
+	width: 100px;
+	height: 40px;
+	padding: 7px;
+	font-size: 17px;
+}
+/* form defoult */
+.text-17{
+    font-size: 17px;
+    height: 40px;
+}
+/* form defoult */
+.form-select {
+	width: 447px;
+}
+.block-input-2 {
+	width: 394px !important;
+}
+.form-image {
+	width: 404px;
+	margin: auto;
+	background-color: #ffff;
+}
+.form-image img {
+	width: 96%;
+}
+.form-image .text-img {
+	width: 90px;
+	/* border: 1px solid black; */
+	float: right;
+	margin-right: 77px;
+	position: relative;
+	top: -29px;
+}
+.text-img img {
+	width: 22px;
+	margin-left: 4px;
+	margin-bottom: 2px;
+}
+.location-select {
+	width: 445px;
+	height: 30px;
+	background-color: #f3f3f3;
+}
